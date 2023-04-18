@@ -1,0 +1,25 @@
+﻿  isin_nums.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xmemory(814,66): error C2535: _Ty (__cdecl *std::allocator<_Ty>::address(_Ty (__cdecl &)) noexcept const): функция-член уже определена или объявлена
+          with
+          [
+              _Ty=list (int)
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xmemory(810,60): message : см. объявление "std::allocator<list (int)>::address"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xmemory(610,1): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "std::allocator<list (int)>"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xmemory(704,1): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "std::_Default_allocator_traits<_Alloc>"
+          with
+          [
+              _Alloc=std::allocator<list (int)>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(500,50): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "std::allocator_traits<_Alloc>"
+          with
+          [
+              _Alloc=std::allocator<list (int)>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(500,26): message : выполняется компиляция ссылки на экземпляр псевдоним шаблон функции "std::_Rebind_alloc_t<_Alloc,_Ty>"
+          with
+          [
+              _Alloc=std::allocator<list (int)>,
+              _Ty=list (int)
+          ]
+C:\Studing\Languages and programing technologies\isin_nums\isin_nums\isin_nums.cpp(16,21): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "std::vector<list (int),std::allocator<list (int)>>"

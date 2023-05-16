@@ -1,0 +1,6 @@
+﻿  Solar.cpp
+C:\Studing\Languages and programing technologies\Solar\Solar\Solar.cpp(201,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Studing\Languages and programing technologies\Solar\Solar\Solar.cpp(202,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Studing\Languages and programing technologies\Solar\Solar\Solar.cpp(206,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Studing\Languages and programing technologies\Solar\Solar\Solar.cpp(207,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Solar.vcxproj -> C:\Studing\Languages and programing technologies\Solar\x64\Debug\Solar.exe

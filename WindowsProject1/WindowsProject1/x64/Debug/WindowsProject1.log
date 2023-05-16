@@ -1,0 +1,4 @@
+﻿  WindowsProject1.cpp
+C:\Studing\Languages and programing technologies\WindowsProject1\WindowsProject1\WindowsProject1.cpp(182,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Studing\Languages and programing technologies\WindowsProject1\WindowsProject1\WindowsProject1.cpp(183,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  WindowsProject1.vcxproj -> C:\Studing\Languages and programing technologies\WindowsProject1\x64\Debug\WindowsProject1.exe

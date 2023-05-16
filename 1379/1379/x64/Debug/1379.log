@@ -1,0 +1,23 @@
+﻿  1379.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\utility(172,54): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+C:\Studing\Languages and programing technologies\1379\1379\1379.cpp(45,44): message : see reference to function template instantiation 'std::pair<int,int>::pair<int&,__int64,0>(_Other1,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=int &,
+              _Other2=__int64
+          ]
+C:\Studing\Languages and programing technologies\1379\1379\1379.cpp(45,24): message : see reference to function template instantiation 'std::pair<int,int>::pair<int&,__int64,0>(_Other1,_Other2 &&) noexcept' being compiled
+          with
+          [
+              _Other1=int &,
+              _Other2=__int64
+          ]
+  1379.vcxproj -> C:\Studing\Languages and programing technologies\1379\x64\Debug\1379.exe

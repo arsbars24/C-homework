@@ -1,0 +1,5 @@
+﻿  tinkoff 3 prog.cpp
+C:\Studing\Languages and programing technologies\tinkoff 3 prog\tinkoff 3 prog\tinkoff 3 prog.cpp(7,10): warning C4244: =: преобразование "__int64" в "long", возможна потеря данных
+C:\Studing\Languages and programing technologies\tinkoff 3 prog\tinkoff 3 prog\tinkoff 3 prog.cpp(29,20): warning C4244: аргумент: преобразование "__int64" в "long", возможна потеря данных
+C:\Studing\Languages and programing technologies\tinkoff 3 prog\tinkoff 3 prog\tinkoff 3 prog.cpp(29,17): warning C4244: аргумент: преобразование "__int64" в "long", возможна потеря данных
+  tinkoff 3 prog.vcxproj -> C:\Studing\Languages and programing technologies\tinkoff 3 prog\x64\Debug\tinkoff 3 prog.exe

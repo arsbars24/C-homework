@@ -1,0 +1,4 @@
+﻿  tinkoff 6 prog.cpp
+C:\Studing\Languages and programing technologies\tinkoff 6 prog\tinkoff 6 prog\tinkoff 6 prog.cpp(54,21): warning C4244: аргумент: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\Studing\Languages and programing technologies\tinkoff 6 prog\tinkoff 6 prog\tinkoff 6 prog.cpp(67,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  tinkoff 6 prog.vcxproj -> C:\Studing\Languages and programing technologies\tinkoff 6 prog\x64\Debug\tinkoff 6 prog.exe

@@ -1,0 +1,2 @@
+﻿  Proto.cpp
+C:\Studing\Languages and programing technologies\Proto\Proto\Proto.cpp(8): error C4700: использована неинициализированная локальная переменная "i"

@@ -1,0 +1,4 @@
+﻿  2123.cpp
+C:\Studing\Languages and programing technologies\2123\2123\2123.cpp(40,22): warning C4244: 'argument': conversion from 'ull' to 'int', possible loss of data
+C:\Studing\Languages and programing technologies\2123\2123\2123.cpp(36,15): warning C4101: 'x': unreferenced local variable
+  2123.vcxproj -> C:\Studing\Languages and programing technologies\2123\x64\Debug\2123.exe

@@ -1,0 +1,4 @@
+﻿  String_v2.cpp
+C:\Studing\Languages and programing technologies\String_v2\String_v2\String_v2.cpp(14,18): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Studing\Languages and programing technologies\String_v2\String_v2\String_v2.cpp(15,18): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  String_v2.vcxproj -> C:\Studing\Languages and programing technologies\String_v2\x64\Debug\String_v2.exe
